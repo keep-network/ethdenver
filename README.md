@@ -12,10 +12,13 @@ Depending on what you build, you may need some testnet BTC and ETH. For sending 
 
 ### Resources
 
+ * The Ropsten-connected [tBTC dApp](http://dapp.test.tbtc.network)
  * [tBTC smart contracts](https://github.com/keep-network/tbtc)
  * [tBTC.js](https://github.com/keep-network/tbtc.js)
  * Dig into the [specification](http://docs.keep.network/tbtc/).
  * Consult [Solidity API documentation](http://docs.keep.network/tbtc/solidity/).
+ * Need testnet BTC? Get in touch with us below, or try the testnet faucet at https://coinfaucet.eu/en/btc-testnet/ .
+ * Need a way to send BTC on testnet? Install [Green wallet](https://blockstream.com/green/). Make sure to set up the wallet for testnet!
 
 ## Need Help? Get in Touch
 
